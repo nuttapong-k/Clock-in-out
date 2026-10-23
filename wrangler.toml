@@ -1,3 +1,4 @@
+
 name = "clockinout"
 main = "worker.js"
 compatibility_date = "2026-10-23"
@@ -14,4 +15,4 @@ database_id = "d855be70-e243-46a4-90c0-3fdfd48073d6"
 
 [vars]
 TIME_ZONE = "Asia/Bangkok"
-ALLOWED_ORIGIN = "https://REPLACE_WITH_YOUR_PAGES_DOMAIN"
+ALLOWED_ORIGIN = "https://clockinout-prod.pages.dev"
